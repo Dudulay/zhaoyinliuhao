@@ -1,0 +1,186 @@
+@charset "utf-8";
+/* CSS Document */
+#zysixContent{	
+	background: #FCEEB4 none repeat scroll 0% 0%;
+	padding-bottom: 80px;
+	font-family: "Microsoft YaHei";
+	color:#825B3B;
+}
+#zyx_main{
+	width: 980px;
+	margin: 0px auto;
+}
+
+#zyx_partOne{
+	margin-top: 97px;
+}
+.zyx_title{	
+	color:#fff;
+	font-family: "Microsoft YaHei";
+	font-size: 32px;
+	letter-spacing:2px;
+	text-align: center;
+	font-weight: bold;
+	background: transparent url("../images/product_title.jpg") no-repeat;
+	width: 980px;
+	height:75px;
+	background-size: contain;
+    z-index: 100;
+    line-height: 65px;
+    border-top-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+}
+.zyx_lq{
+	padding:60px 50px;
+	background-color: #FFFDF0;
+	margin-top: -8px;
+	border-bottom-right-radius:2em;
+	border-bottom-left-radius:2em;
+}
+
+#zyx_lq_title,#zyx_profit_title{
+	height:50px;
+	/* margin-bottom: 15px; */
+}
+.zyx_num{
+	font-style: normal;
+	color: #FFF;
+	background: #c88d27 none repeat scroll 0% 0%;
+	border-radius: 12px;
+	left: 0px;
+	top: 0px;
+	text-align: center;
+	width: 21px;
+	height: 21px;
+	line-height: 22px;
+	font-weight: bold;
+	font-size: 14px;
+	margin-left: 5px;
+    margin-top: 4px;
+}
+.zyx_lg_titleImg{
+	float: left;
+	width: 70px;
+	margin-top: 15px;
+}
+.zyx_lg_titleText{
+	float: left;
+	color: #c88d27;
+	font-size: 26px;
+	font-weight: bold;
+	padding: 5px 0px 0px 35px;
+}
+#zyx_lq_content,#zyx_money_content,#zyx_medical_content{
+	margin-left: 97px;
+	font-size:14px;
+	color: #825B3B;
+}
+.zyx_profit_content{
+	font-size:16px;
+	color: #825B3B;	
+}
+.zyx_disc_text {
+	margin-left: 8px;
+	line-height: 25px;
+}
+/* .zyx_disc td{
+	padding-bottom: 8px;
+} */
+
+.zyx_money_title{
+	margin-top: 30px;
+	height: 50px;
+	/* margin-bottom: 15px; */
+}
+
+#zyx_partTwo,#zyx_partThree,#zyx_partFour{
+	margin-top: 105px;
+}
+#zyx_ex{
+	border:1px dashed #A7D0E5;
+	font-size: 16px;
+	padding:30px;
+	color: #825B3B;
+	border-radius: 8px;
+	line-height: 25px;
+	background-color:#fff;
+}
+.zyx_btn_top{
+	margin-top: 15px;
+}
+.zyx_btn{
+	background-color: #FFB802;
+	color: #fff;
+	border-radius: 5px;
+	padding:3px 12px 5px;
+}
+.zyx_spend{
+	color: #FFB802;
+	margin-left: 10px;
+}
+.zyx_chart1{
+	padding: 0px 30px 20px 7px;
+}
+.zyx_chart2{
+	padding: 0px 7px 34px 30px;
+}
+#zyx_gril{
+	margin-top: 60px;
+	background-color: #FFF8DC;
+	padding:40px 40px 10px;
+}
+.zyx_gril_text{
+	font-size: 16px;	
+	line-height: 28px;
+	padding:30px;
+}
+.zyx_family_text{
+	font-size: 16px;	
+	line-height: 28px;
+	padding:30px 30px 10px;	
+}
+.zyx_family_textdec{
+	line-height: 25px;
+	padding:0px 30px 10px;	
+}
+.zyx_footer{
+	margin-top: 20px;
+}
+.zyx_protect{
+	font-size: 16px;
+}
+.zyx_protect td{
+	padding-bottom: 18px;
+}
+
+
+.zyx_profit{
+	margin-bottom: 22px;
+	font-size: 24px;
+	color: #e0470d;
+	font-weight: bolid;
+}
+.toubaotottom{
+	margin-top: 30px;
+}
+
+#zyx_medical_content p{
+padding-top: 35px;
+padding-left: 35px;
+}
+
+#zyx_girl_content{
+	margin-top: -25px;
+    font-size: 16px;
+    color: #825B3B;
+}
+.zyx_lg_girl{
+	width:98px;
+	height:232px;
+}
+.zyx_disc_girl{
+	font-size: 20px;
+}
+.zyx_disc_girl td{
+	padding-bottom: 8px;
+}
